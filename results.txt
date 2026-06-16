@@ -1,0 +1,5 @@
+Computer Name: BensPC
+Date of Test: 2026-06-16 20:13:57
+Bubble Sort Time: 3.935132 seconds
+Quick Sort Time: 0.009837 seconds
+
